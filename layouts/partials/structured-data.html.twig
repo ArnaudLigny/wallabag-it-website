@@ -7,7 +7,6 @@
     - BlogPosting: blog posts.
     Built with maps + json_encode so the JSON is always valid & escaped. -#}
 {%- set json_flags = constant('JSON_PRETTY_PRINT') b-or constant('JSON_UNESCAPED_SLASHES') b-or constant('JSON_UNESCAPED_UNICODE') -%}
-{%- set lang = site.language ~ '' -%}
 {%- set permalink = url(page, {canonical: true}) -%}
 
 {#- Organization (sitewide) -#}
@@ -81,7 +80,7 @@
 {#- ItemList (alternatives hub) -#}
 {%- if page.type == 'section' and page.id|split('/')|last == 'alternatives' -%}
   {%- set items = [] -%}
-  {%- for alternative in site.data.alternatives[lang] ?? site.data.alternatives.en -%}
+  {%- for alternative in site.data.alternatives -%}
     {%- set items = items|merge([{
       '@type': 'ListItem',
       position: loop.index,
@@ -96,7 +95,7 @@
 {#- FAQPage (pages with a block of type "faq" showing all the questions) -#}
 {%- if page.blocks|default([])|filter(b => b.type|default == 'faq' and not b.ids|default)|length > 0 -%}
   {%- set questions = [] -%}
-  {%- for item in site.data.faq[lang] ?? site.data.faq.en -%}
+  {%- for item in site.data.faq -%}
     {%- set answer = item.a|markdown_to_html|striptags|replace({'&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"', '&#039;': "'"})|trim -%}
     {%- set questions = questions|merge([{
       '@type': 'Question',

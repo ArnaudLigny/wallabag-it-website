@@ -1,7 +1,7 @@
-{#- FAQ accordion fed by data/faq.yaml (per language, falls back to en).
+{#- FAQ accordion fed by data/faq.yaml (data/faq.<lang>.yaml for a translation).
     `ids`: the questions to show, e.g. on the pricing page (default: all of them).
     The FAQPage JSON-LD is in partials/structured-data.html.twig. -#}
-{%- set items = site.data.faq[site.language ~ ''] ?? site.data.faq.en -%}
+{%- set items = site.data.faq -%}
 {%- if block.ids|default([]) -%}
   {%- set items = items|filter(item => item.id in block.ids) -%}
 {%- endif -%}

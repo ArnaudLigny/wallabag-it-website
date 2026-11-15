@@ -121,6 +121,8 @@ The text of the page, in Markdown: it comes after the hero, in a white band.
 | `checklist` | List with check marks, on two columns (`items`) |
 | `glimpse`, `proof`, `compare`, `callout`, `latest` | Screenshot and text, three screenshots, reading themes slider, highlighted text, latest post |
 
+The files of `data/` are in English; their French version has the `.fr` suffix (`data/faq.fr.yaml`).
+
 Every block also accepts `title`, `intro`, `lead`, `text`, `buttons` and `outro`. The parameters of
 each type are described at the top of its file in `layouts/partials/blocks/`. The front matter is
 checked when the site is built (`pages.schema` in `cecil.yml`): a wrong type or color stops the build
