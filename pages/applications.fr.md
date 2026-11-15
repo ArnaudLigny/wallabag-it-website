@@ -1,6 +1,7 @@
 ---
 title: "Applications wallabag.it : Android, iOS, navigateur et liseuses"
 description: "Lisez vos articles enregistrés partout avec wallabag.it : applications natives Android et iOS (lecture hors-ligne), extensions Firefox et Chrome, et prise en charge des liseuses Kobo et PocketBook."
+image: images/social/applications-fr.png
 software_schema: true
 menu: {main: {weight: 20, name: "Applications"}}
 hero:
