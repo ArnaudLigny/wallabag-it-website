@@ -3,7 +3,7 @@ title: New website for wallabag.it
 date: 2025-06-01
 author: Nicolas Lœuillet
 description: "The wallabag.it website gets a refresh and moves to its own server, so it stays online even when the app has an issue."
-image: images/blog/en-2025-06-01-new-website.png
+#image: images/blog/en-2025-06-01-new-website.png
 categories: ["The service"]
 slug: new-website-for-wallabag.it
 ---

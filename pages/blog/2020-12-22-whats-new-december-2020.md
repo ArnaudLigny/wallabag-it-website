@@ -4,7 +4,7 @@ date: 2020-12-22
 author: Nicolas Lœuillet
 description: >
   wallabag.it December 2020 update: dark mode is here, Pocket tag import is fixed, and a new self-hosted billing system with invoice history.
-image: images/blog/en-2020-12-22-whats-new.png
+#image: images/blog/en-2020-12-22-whats-new.png
 categories: ["News"]
 slug: december-2020-whats-new-on-wallabag.it
 ---

@@ -1,7 +1,7 @@
 ---
 title: wallabag.it
 description: "Enregistrez vos articles web et lisez-les plus tard sur votre téléphone, tablette ou liseuse. wallabag.it est un service open source de lecture différée hébergé en Europe, une alternative à Pocket, Instapaper et Pinboard. Essai gratuit de 14 jours, sans carte bancaire."
-image: images/social/home-fr.png
+#image: images/social/home-fr.png
 hero:
   title: Fermez vos onglets, sans les oublier
   lead: Mettez un article de côté en un clic et lisez-le plus tard, même si le site disparaît.

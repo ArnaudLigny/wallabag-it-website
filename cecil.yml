@@ -5,7 +5,7 @@ baseline: "Read-it-later app hosted in Europe"
 description: "Save web articles and read them later on any device. wallabag.it is the open-source, privacy-first read-it-later service hosted in Europe — a simple alternative to Pocket, Instapaper and Pinboard. 14-day free trial, no credit card."
 baseurl: https://wallabag.it/
 # Default image of the social networks cards
-image: images/social-card.png
+#image: images/social-card.png
 
 # The styles and scripts of Docsy (Bootstrap, Font Awesome): see themes/docsy/README.md
 # Open Graph image of the pages without `image` (title and site title): see themes/ogimage/README.md

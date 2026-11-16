@@ -5,7 +5,7 @@ date: 2025-06-23
 author: Nicolas Lœuillet
 description: >
   Pocket a fermé. Voici un guide étape par étape pour exporter votre liste de lecture Pocket et l'importer dans wallabag.it en quelques minutes.
-image: images/blog/fr-2025-06-25-how-migrate-pocket-wallabag.png
+#image: images/blog/fr-2025-06-25-how-migrate-pocket-wallabag.png
 categories: ["Guides"]
 ---
 

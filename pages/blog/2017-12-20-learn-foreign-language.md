@@ -4,7 +4,7 @@ date: 2017-12-20
 author: Nicolas Lœuillet
 description: >
   The Text to Speech feature in wallabag's Android app lets you listen to saved articles in a foreign language — a practical way to practise while reading.
-image: images/blog/en-2016-12-20-learn-foreign-language.png
+#image: images/blog/en-2016-12-20-learn-foreign-language.png
 categories: ["Guide"]
 slug: how-to-learn-a-foreign-language-thanks-to-wallabag
 ---

@@ -4,7 +4,7 @@ date: 2016-12-22
 author: Nicolas Lœuillet
 description: >
   Our websites were unavailable during 8 hours today. We are sorry for this inconvience.
-image: images/blog/en-2016-12-22-website-unavailable.png
+#image: images/blog/en-2016-12-22-website-unavailable.png
 categories: ["The service"]
 slug: all-wallabag.it-websites-unavailable-on-december-22-during-8-hours
 ---

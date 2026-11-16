@@ -4,7 +4,7 @@ date: 2020-04-21
 author: Nicolas Lœuillet
 description: >
   wallabag.it week 17 update: save articles by email is live, a cleaner left menu, an improved tags list, and a fix for the two-factor authentication disable button.
-image: images/blog/en-2020-04-21-whats-new.png
+#image: images/blog/en-2020-04-21-whats-new.png
 categories: ["News"]
 slug: week-17-whats-new-on-wallabag.it
 ---

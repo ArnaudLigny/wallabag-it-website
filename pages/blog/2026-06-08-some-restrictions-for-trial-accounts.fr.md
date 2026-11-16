@@ -5,7 +5,7 @@ date: 2026-06-08
 author: Nicolas Lœuillet
 description: >
   wallabag.it réserve désormais les fonctionnalités gourmandes en ressources — sauvegarde par email, import RSS et imports de services — aux abonnés, pour garantir un service rapide et fiable pour tous.
-image: images/blog/fr-2026-06-08-some-restrictions-for-trial-accounts.png
+#image: images/blog/fr-2026-06-08-some-restrictions-for-trial-accounts.png
 categories: ["Le service"]
 ---
 

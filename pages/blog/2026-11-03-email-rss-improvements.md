@@ -4,7 +4,7 @@ slug: email-saving-rss-feeds-improvements
 date: 2026-11-03
 author: Nicolas Lœuillet
 description: "Fixes for saving articles by email and importing RSS feeds on wallabag.it: how both features work and what changed."
-image: images/blog/en-2026-11-03-email-rss-improvements.png
+#image: images/blog/en-2026-11-03-email-rss-improvements.png
 categories: ["News"]
 ---
 

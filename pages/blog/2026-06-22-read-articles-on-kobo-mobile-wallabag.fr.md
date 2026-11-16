@@ -5,7 +5,7 @@ date: 2026-06-22
 author: Nicolas Lœuillet
 description: >
   Sauvegardez sur ordinateur, lisez plus tard sur mobile ou sur votre liseuse Kobo.
-image: images/blog/fr-2026-06-22-read-articles-on-kobo-mobile-wallabag.png
+#image: images/blog/fr-2026-06-22-read-articles-on-kobo-mobile-wallabag.png
 categories: ["Guides"]
 trial:
   lead: "14 jours d’essai gratuit, aucune carte bancaire demandée."

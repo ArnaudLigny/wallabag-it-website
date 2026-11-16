@@ -4,7 +4,7 @@ slug: read-articles-kobo-mobile-wallabag-it
 date: 2026-06-22
 author: Nicolas Lœuillet
 description: "Save an article on your computer, then read it later on your phone, tablet or Kobo e-reader with wallabag.it, even offline."
-image: images/blog/en-2026-06-22-read-articles-on-kobo-mobile-wallabag.png
+#image: images/blog/en-2026-06-22-read-articles-on-kobo-mobile-wallabag.png
 categories: ["Guide"]
 trial:
   lead: "14-day free trial, no credit card required."

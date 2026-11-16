@@ -5,7 +5,7 @@ date: 2026-06-30
 author: Nicolas Lœuillet
 description: >
   For the first time, wallabag.it will directly fund features and fixes that will be contributed back to the open-source wallabag project.
-image: images/blog/en-2026-06-30-wallabag-it-funds-open-source-development.png
+#image: images/blog/en-2026-06-30-wallabag-it-funds-open-source-development.png
 categories: ["The service"]
 trial:
   title: ""

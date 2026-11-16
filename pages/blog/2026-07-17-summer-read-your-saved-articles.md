@@ -5,7 +5,7 @@ date: 2026-07-17
 author: Nicolas Lœuillet
 description: >
   Summer is often a good time to slow down, reopen your saved articles list, and finally take the time to read.
-image: images/blog/en-2026-07-17-summer-read-your-saved-articles.png
+#image: images/blog/en-2026-07-17-summer-read-your-saved-articles.png
 categories: ["Guide"]
 trial:
   title: ""

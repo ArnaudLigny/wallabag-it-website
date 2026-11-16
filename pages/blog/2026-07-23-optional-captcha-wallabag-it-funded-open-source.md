@@ -5,7 +5,7 @@ date: 2026-07-23
 author: Nicolas Lœuillet
 description: >
   The first three contributions funded by wallabag.it have been merged into the open-source wallabag project, including optional CAPTCHA protection.
-image: images/blog/en-2026-07-23-optional-captcha-wallabag-it-funded-open-source.png
+#image: images/blog/en-2026-07-23-optional-captcha-wallabag-it-funded-open-source.png
 categories: ["News"]
 trial:
   title: ""

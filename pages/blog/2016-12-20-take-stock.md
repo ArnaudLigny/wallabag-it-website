@@ -3,7 +3,7 @@ date: 2016-12-20T12:00:00
 title: After a few weeks, it’s time to take stock
 description: "A few weeks after its launch, why wallabag.it exists: the hosted version of wallabag, nothing to install, with a 14-day free trial."
 author: Nicolas Lœuillet
-image: images/blog/en-2016-12-20-take-stock.png
+#image: images/blog/en-2016-12-20-take-stock.png
 categories: ["The service"]
 slug: after-a-few-weeks-its-time-to-take-stock
 ---

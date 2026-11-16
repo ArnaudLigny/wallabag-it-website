@@ -3,7 +3,7 @@ title: Eight annual subscriptions to win
 date: 2021-04-10
 author: Nicolas Lœuillet
 description: "For wallabag's 8th birthday in April 2021, eight annual wallabag.it subscriptions were up for grabs in a draw."
-image: images/blog/en-2021-04-10-win-height-subscriptions.png
+#image: images/blog/en-2021-04-10-win-height-subscriptions.png
 categories: ["News"]
 slug: eight-annual-subscriptions-to-win
 ---

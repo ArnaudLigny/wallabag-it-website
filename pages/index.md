@@ -1,7 +1,7 @@
 ---
 title: wallabag.it
 description: "Save web articles and read them later on your phone, tablet or e-reader. wallabag.it is an open-source read-it-later service hosted in Europe, an alternative to Pocket, Instapaper and Pinboard. Start a 14-day free trial, no credit card required."
-image: images/social/home-en.png
+#image: images/social/home-en.png
 hero:
   title: Close your tabs, forget nothing
   lead: Put an article aside in one click and read it later, even if the website goes away.

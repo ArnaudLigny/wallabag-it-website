@@ -5,7 +5,7 @@ date: 2026-06-29
 author: Nicolas Lœuillet
 description: >
   Quelques mots sur le choix des services européens, le financement par abonnement et la volonté de garder wallabag.it accessible au plus grand nombre.
-image: images/blog/fr-2026-06-29-why-choose-european-read-it-later-service.png
+#image: images/blog/fr-2026-06-29-why-choose-european-read-it-later-service.png
 categories: ["Le service"]
 trial:
   lead: "14 jours d’essai gratuit, aucune carte bancaire demandée."

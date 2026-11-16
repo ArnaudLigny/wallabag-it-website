@@ -5,7 +5,7 @@ date: 2026-06-29
 author: Nicolas Lœuillet
 description: >
   A few words about choosing European services, funding wallabag.it through subscriptions, and keeping it accessible to as many people as possible.
-image: images/blog/en-2026-06-29-why-choose-european-read-it-later-service.png
+#image: images/blog/en-2026-06-29-why-choose-european-read-it-later-service.png
 categories: ["The service"]
 trial:
   lead: "14-day free trial, no credit card required."

@@ -5,7 +5,7 @@ date: 2025-06-23
 author: Nicolas Lœuillet
 description: >
   Pocket has shut down. Here is a step-by-step guide to export your Pocket reading list and import it into wallabag.it in a few minutes.
-image: images/blog/en-2025-06-25-how-migrate-pocket-wallabag.png
+#image: images/blog/en-2025-06-25-how-migrate-pocket-wallabag.png
 categories: ["Guide"]
 ---
 

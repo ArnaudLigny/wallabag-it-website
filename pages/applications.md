@@ -1,7 +1,7 @@
 ---
 title: "Applications for wallabag.it: Android, iOS, browser and e-reader apps"
 description: "Read your saved articles everywhere with wallabag.it: native Android and iOS apps (offline reading), Firefox and Chrome browser add-ons, and support for Kobo and PocketBook e-readers."
-image: images/social/applications-en.png
+#image: images/social/applications-en.png
 software_schema: true
 menu: {main: {weight: 20, name: "Applications"}}
 hero:

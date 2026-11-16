@@ -5,7 +5,7 @@ date: 2026-06-15
 author: Nicolas Lœuillet
 description: >
   Le paysage des applications de lecture différée a beaucoup changé. Pocket a fermé, Omnivore aussi. Voici mon tour d'horizon (presque objectif), en 2026.
-image: images/blog/fr-2026-06-15-which-read-it-later-app-2026.png
+#image: images/blog/fr-2026-06-15-which-read-it-later-app-2026.png
 categories: ["Guides"]
 trial:
   lead: "14 jours d’essai gratuit, aucune carte bancaire demandée."

@@ -3,7 +3,7 @@ title: « Reading blogs on my Kobo e-reader via wallabag » by Jan Ouwens
 date: 2025-06-04
 author: Nicolas Lœuillet
 description: "Jan Ouwens, a former Pocket user, explains how he reads the articles saved in wallabag.it on his Kobo e-reader."
-image: images/blog/en-2025-06-04-wallabag-kobo.png
+#image: images/blog/en-2025-06-04-wallabag-kobo.png
 categories: ["Guide"]
 slug: reading-blogs-on-my-kobo-e-reader-via-wallabag-by-jan-ouwens
 ---

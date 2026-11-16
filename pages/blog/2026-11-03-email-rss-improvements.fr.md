@@ -4,7 +4,7 @@ slug: ameliorations-sauvegarde-email-flux-rss
 date: 2026-11-03
 author: Nicolas Lœuillet
 description: "Des correctifs pour la sauvegarde d'articles par email et l'import des flux RSS sur wallabag.it : comment ça marche et ce qui change."
-image: images/blog/fr-2026-11-03-email-rss-improvements.png
+#image: images/blog/fr-2026-11-03-email-rss-improvements.png
 categories: ["Nouveautés"]
 ---
 

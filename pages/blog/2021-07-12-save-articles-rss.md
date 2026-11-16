@@ -4,7 +4,7 @@ date: 2021-07-12
 author: Nicolas Lœuillet
 description: >
   wallabag.it now supports saving articles directly from RSS and Atom feeds, updated every hour. Available to all subscribers.
-image: images/blog/en-2021-07-12-save-articles-rss.png
+#image: images/blog/en-2021-07-12-save-articles-rss.png
 categories: ["Guide"]
 path: blog/2021/07/12/save-articles-from-atom-/-rss-feeds
 ---

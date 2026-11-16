@@ -4,7 +4,7 @@ date: 2026-06-08
 author: Nicolas Lœuillet
 description: >
   wallabag.it now reserves resource-intensive features — saving by email, RSS import, and service imports — for subscribers, to keep the platform fast and reliable for everyone.
-image: images/blog/en-2026-06-08-some-restrictions-for-trial-accounts.png
+#image: images/blog/en-2026-06-08-some-restrictions-for-trial-accounts.png
 categories: ["The service"]
 slug: some-restrictions-for-trial-accounts-on-wallabag.it
 ---

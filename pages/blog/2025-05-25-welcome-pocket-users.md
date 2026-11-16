@@ -3,7 +3,7 @@ title: Welcome to Pocket users!
 date: 2025-05-25
 author: Nicolas Lœuillet
 description: "Pocket is shutting down: what Pocket users will find on wallabag.it, a privacy-friendly read-it-later service that costs 11 € a year."
-image: images/blog/en-2025-05-25-welcome-pocket-users.png
+#image: images/blog/en-2025-05-25-welcome-pocket-users.png
 categories: ["The service"]
 slug: welcome-to-pocket-users
 ---

@@ -5,7 +5,7 @@ date: 2026-07-17
 author: Nicolas Lœuillet
 description: >
   L'été est souvent le bon moment pour ralentir, rouvrir sa liste d'articles sauvegardés et prendre enfin le temps de lire.
-image: images/blog/fr-2026-07-17-summer-read-your-saved-articles.png
+#image: images/blog/fr-2026-07-17-summer-read-your-saved-articles.png
 categories: ["Guides"]
 trial:
   title: ""

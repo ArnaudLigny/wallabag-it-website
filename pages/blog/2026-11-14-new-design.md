@@ -5,7 +5,7 @@ date: 2026-11-14T12:00:00+01:00
 author: Nicolas Lœuillet
 description: >
   Ten years after the service opened, the website and the app get a new look. And to celebrate these 10 years, a little surprise.
-image: images/blog/en-2026-11-14-new-design.png
+#image: images/blog/en-2026-11-14-new-design.png
 categories: ["News"]
 preview: "/images/blog/feature-new-design.png"
 ---

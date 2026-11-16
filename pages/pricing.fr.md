@@ -2,7 +2,7 @@
 title: Tarifs, dès 11€ par an
 slug: tarifs
 description: "Les abonnements wallabag.it : 3 mois pour 4€, un an pour 11€ ou l'abonnement soutien à 30€. Fonctionnalités premium incluses : sauvegarde par email, imports, flux RSS. Essai gratuit de 14 jours, sans carte bancaire."
-image: images/social/pricing-fr.png
+#image: images/social/pricing-fr.png
 software_schema: true
 menu: {main: {weight: 35, name: "Tarifs"}}
 hero:

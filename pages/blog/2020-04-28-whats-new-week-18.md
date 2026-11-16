@@ -4,7 +4,7 @@ date: 2020-04-28
 author: Nicolas Lœuillet
 description: >
   wallabag.it week 18 update: save-by-email IMAP fix, invoice retrieval on subscription page, tag editing bug fixed, and a confirmation step before mass deletions.
-image: images/blog/en-2020-04-28-whats-new.png
+#image: images/blog/en-2020-04-28-whats-new.png
 categories: ["News"]
 slug: week-18-whats-new-on-wallabag.it
 ---

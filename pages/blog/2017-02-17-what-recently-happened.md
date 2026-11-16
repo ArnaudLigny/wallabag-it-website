@@ -4,7 +4,7 @@ date: 2017-02-17
 author: Nicolas Lœuillet
 description: >
   It’s been a long time that I didn’t write some news here. It’s because I have a lot of work on wallabag.it.
-image: images/blog/en-2017-02-17-what-recently-happened.png
+#image: images/blog/en-2017-02-17-what-recently-happened.png
 categories: ["The service"]
 slug: what-recently-happened-on-wallabag.it
 ---

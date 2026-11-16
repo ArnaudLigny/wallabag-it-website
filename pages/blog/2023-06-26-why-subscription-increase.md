@@ -4,7 +4,7 @@ date: 2023-06-26
 author: Nicolas Lœuillet
 description: >
   wallabag.it raises its price for the first time in seven years — from €9 to €11 per year — following hosting cost increases. Still the most affordable read-it-later service on the market.
-image: images/blog/en-2023-06-26-why-subscription-increase.png
+#image: images/blog/en-2023-06-26-why-subscription-increase.png
 categories: ["The service"]
 slug: why-wallabag.it-subscription-will-increase
 ---
