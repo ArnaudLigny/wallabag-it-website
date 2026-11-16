@@ -3,3 +3,6 @@
 /.cecil
 /cecil.phar
 /build.sh
+/vendor
+/composer-cache
+/themes/ogimage

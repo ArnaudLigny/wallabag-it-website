@@ -8,7 +8,8 @@ baseurl: https://wallabag.it/
 image: images/social-card.png
 
 # The styles and scripts of Docsy (Bootstrap, Font Awesome): see themes/docsy/README.md
-theme: [docsy]
+# Open Graph image of the pages without `image` (title and site title): see themes/ogimage/README.md
+theme: [docsy, ogimage]
 
 # Languages: every URL starts with the language code (/en/, /fr/)
 language:
@@ -79,6 +80,21 @@ links:
     - name: FAQ
       page: faq
 
+# Open Graph image generated for the pages without `image` (ogimage theme: see themes/ogimage/README.md):
+# the title of the page and the site title, on the background of the social cards (logo, no text)
+ogimage:
+  background: images/og-background.png
+  color: '#ffffff'
+  padding:
+    top: 200
+    right: 110
+    bottom: 80
+    left: 78
+  # Inter 4.1 (SIL Open Font License: assets/fonts/inter/OFL.txt)
+  fonts:
+    regular: fonts/inter/Inter-Regular.ttf
+    bold: fonts/inter/Inter-Bold.ttf
+
 copyright:
   authors: Nicolas Lœuillet
   from_year: 2016
@@ -118,6 +134,8 @@ pages:
   default:
     xsl/rss: {published: true}
     xsl/atom: {published: false}
+    # the page not found is not shared: no Open Graph image
+    404: {ogimage: false}
   # Front matter of the pages: the hero, the blocks and the trial band (see README.md).
   # An invalid page makes the build fail.
   validation: strict
